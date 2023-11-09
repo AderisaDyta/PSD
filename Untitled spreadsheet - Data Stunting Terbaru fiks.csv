@@ -1,0 +1,654 @@
+JK,AGE,Berat,Tinggi,BB/U,TB/U,BB/TB,Naik Berat Badan,Status
+L,57,15.1,106,Berat Badan Normal,Normal,Gizi Baik,O,tidak stunting
+L,56,15.2,105.2,Berat Badan Normal,Normal,Gizi Baik,O,tidak stunting
+L,55,14.6,99.5,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,55,14.7,98.5,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,53,15,99,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,53,15,99.1,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,53,14.6,96.5,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,52,14.7,97.2,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,52,14.8,97.3,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,51,14.8,97.3,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,51,14.5,97.8,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,51,14.5,96.7,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,50,14.5,96.8,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,50,14,96.9,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,49,13.5,100.3,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,48,12.3,92,Kurang,Pendek,Gizi Baik,T,tidak stunting
+L,47,13.4,94.2,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+L,47,13.5,95,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,44,14.8,101,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,43,12.7,94.5,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,43,12.7,93,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,42,9.9,89,Sangat Kurang,Pendek,Gizi Kurang,T,tidak stunting
+P,41,11.8,90.6,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,40,11.5,92.9,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,40,14.8,94,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,39,14.2,98.2,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,39,14.3,98.2,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,39,14.3,98.2,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,38,14.7,98.6,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,37,14.2,96.5,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,36,14.2,95.2,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,35,14.1,95.1,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,34,14,89,Berat Badan Normal,Normal,Risiko Gizi Lebih,N,stunting
+P,33,12.4,85,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+L,33,12,88,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,33,10.6,87,Kurang,Normal,Gizi Baik,T,tidak stunting
+P,32,10.7,87.2,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,32,11.3,89,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,30,10.7,86,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,30,12.2,84.2,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,29,10.7,84,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+P,29,10.9,84.2,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,28,11,85,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,28,10.2,80.5,Kurang,Pendek,Gizi Baik,N,stunting
+P,26,10.1,77,Berat Badan Normal,Sangat Pendek,Gizi Baik,N,stunting
+P,25,9.6,77.9,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+P,24,9.7,80.2,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,23,9.6,78,Berat Badan Normal,Sangat Pendek,Gizi Baik,T,tidak stunting
+P,22,9.9,79.5,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,22,9.9,78.2,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+P,21,10.1,76,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+P,20,10.2,77,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,18,10.6,80,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,18,9.4,74.5,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+P,17,9.2,74,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+L,16,9.9,74,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+P,16,8.2,74.6,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,16,11.5,76,Berat Badan Normal,Normal,Risiko Gizi Lebih,N,stunting
+L,15,10.6,76.5,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,14,8.2,71,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+P,12,8.3,71.5,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,12,8.5,74,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,11,8.3,70.9,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,10,7.6,70.8,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,10,8.3,75,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,10,7,64.4,Kurang,Sangat Pendek,Gizi Baik,N,stunting
+L,9,7.7,68.4,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,7,6.2,65.8,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,7,8.6,68.5,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,3,7.6,62,Risiko Lebih,Normal,Risiko Gizi Lebih,N,stunting
+P,3,6.1,59,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,2,5.6,58,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,2,5.6,58,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,2,4.5,57.7,Kurang,Normal,Gizi Kurang,T,tidak stunting
+L,2,3.7,53,Sangat Kurang,Sangat Pendek,Gizi Baik,N,stunting
+L,1,4.5,55.8,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,0,3.6,50,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,58,14.9,102.4,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,56,15.1,105,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,56,16,103.8,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,53,14.4,98.6,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,53,14.5,99,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,52,17.5,102,Berat Badan Normal,Normal,Risiko Gizi Lebih,T,tidak stunting
+P,52,13.1,98.5,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,51,12,96,Kurang,Normal,Gizi Baik,N,stunting
+P,50,15,99.5,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,50,15.5,99.5,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,50,17.6,99.7,Berat Badan Normal,Normal,Risiko Gizi Lebih,T,tidak stunting
+P,45,15.3,98.1,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,42,14.9,99,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,42,12.9,93.5,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,40,11.7,90.2,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,36,10.7,87.4,Kurang,Pendek,Gizi Baik,N,stunting
+P,33,11.2,87.8,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,32,10.6,85,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,31,10.8,86.4,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,30,10.5,85.7,Kurang,Normal,Gizi Baik,T,tidak stunting
+L,28,10.3,84.2,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,21,7.9,76.9,Kurang,Pendek,Gizi Kurang,N,stunting
+L,20,8.9,75.5,Kurang,Sangat Pendek,Gizi Baik,N,stunting
+L,20,9.7,78,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+P,19,9.2,76,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,18,8.5,79.3,Kurang,Normal,Gizi Kurang,N,stunting
+L,18,8,71,Kurang,Sangat Pendek,Gizi Baik,T,tidak stunting
+L,16,8.8,76,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,16,10.6,80.5,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,14,9.3,74.5,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,14,8.6,73.5,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+L,14,9.2,72.5,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+L,13,9.8,75.4,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,13,8.6,70.4,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+P,10,7.7,67.8,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,10,8.8,78,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,8,6.5,63.5,Kurang,Sangat Pendek,Gizi Baik,N,stunting
+P,7,6.2,63.3,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,6,6.2,63,Kurang,Pendek,Gizi Baik,N,stunting
+L,5,7.7,65,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,5,7,64,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,4,6.4,60.4,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+L,3,4.4,55,Sangat Kurang,Sangat Pendek,Gizi Baik,N,stunting
+L,2,5.9,59,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,0,3.2,49,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,60,14,99.8,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,58,11.7,95.8,Sangat Kurang,Pendek,Gizi Kurang,T,tidak stunting
+L,57,16,107.7,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,56,15.4,106.5,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,52,14,98,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,50,14,98.2,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,49,11.5,93.1,Kurang,Pendek,Gizi Kurang,T,tidak stunting
+P,47,14.1,94,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,41,12,90.2,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+P,40,13.8,93.6,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,38,14.9,93.2,Berat Badan Normal,Normal,Risiko Gizi Lebih,N,stunting
+P,38,11.8,85.8,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+L,27,11,83.2,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,26,10.3,82.3,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+L,26,8.9,78.9,Kurang,Sangat Pendek,Gizi Baik,T,tidak stunting
+L,23,11,81.5,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,21,8.7,77.5,Kurang,Pendek,Gizi Baik,T,tidak stunting
+L,19,9.5,79,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,15,8.4,73.3,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+L,13,9,72.5,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,9,7.9,69.2,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,7,8.8,70,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,5,6,61.7,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,3,6.5,59.5,Berat Badan Normal,Normal,Risiko Gizi Lebih,N,stunting
+L,3,6.6,59.1,Berat Badan Normal,Normal,Risiko Gizi Lebih,N,stunting
+P,1,3.7,51.7,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+L,59,15.7,105.5,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,59,15.6,104.5,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,58,15,104.6,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,58,15.4,103,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,58,15,102.5,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,58,15.2,103,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,56,10.7,91.2,Sangat Kurang,Sangat Pendek,Gizi Kurang,T,tidak stunting
+P,56,14.5,101.2,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,52,15,102,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,52,15.5,103.4,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,50,15.2,99,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,50,15.6,98,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,49,12,93.7,Kurang,Pendek,Gizi Baik,T,tidak stunting
+L,47,11.7,89,Kurang,Sangat Pendek,Gizi Baik,T,tidak stunting
+P,47,12.1,94,Kurang,Normal,Gizi Baik,N,stunting
+L,44,13.5,91.5,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+L,43,13.5,92.9,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,43,12.4,91,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+L,41,13.1,93,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,40,13.9,94.1,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,39,13.5,94.5,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,39,14.2,93.1,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,39,13,91.5,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,39,12.2,91.5,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,38,12.3,90.5,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,37,12.8,90.2,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,35,13.4,89.3,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,34,12.5,89.4,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,31,13.2,87.9,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,31,14,88,Berat Badan Normal,Normal,Risiko Gizi Lebih,N,stunting
+L,27,12.9,89,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,26,12.9,89.5,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,25,10,82.8,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,21,11.2,80.3,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,14,10.4,76.6,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,13,10.6,76,Berat Badan Normal,Normal,Risiko Gizi Lebih,N,stunting
+P,11,7.8,68.5,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,11,8.9,73.7,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,10,9.4,69.5,Berat Badan Normal,Normal,Risiko Gizi Lebih,T,tidak stunting
+P,10,8.9,72.3,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,8,9.3,67.3,Berat Badan Normal,Normal,Gizi Lebih,T,tidak stunting
+L,7,7.1,65.5,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,3,6.7,60.1,Berat Badan Normal,Normal,Risiko Gizi Lebih,N,stunting
+P,2,5.8,58,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,2,6.2,55.2,Berat Badan Normal,Normal,Obesitas,T,tidak stunting
+P,1,4,50.6,Berat Badan Normal,Pendek,Risiko Gizi Lebih,N,stunting
+L,1,2.7,49,Sangat Kurang,Pendek,Gizi Baik,T,tidak stunting
+P,58,14.3,96.7,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+P,57,12.8,95,Kurang,Pendek,Gizi Baik,N,stunting
+P,56,14.2,98.6,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,55,15.8,102,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,54,13.4,95.9,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+L,53,13.5,100.3,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,52,16,101.1,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,51,16.2,102,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,51,16,102,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,51,15,99.8,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,51,13,94.5,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+L,49,13.7,94,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+P,48,13.5,94.3,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,47,13.5,96,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,46,13.1,98.2,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,44,13.2,95.8,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,44,13.5,93,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,44,14.3,92.8,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,41,13,90.6,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,39,10.2,86.4,Kurang,Pendek,Gizi Baik,T,tidak stunting
+P,39,13.5,90.5,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,39,13.2,95.1,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,39,11.3,87,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+L,37,12.7,91,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,37,13,92,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,37,13.5,94,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,36,13.5,90,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,36,11.8,89.2,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,35,12,88.7,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,34,12.2,89,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,32,9,80.5,Sangat Kurang,Sangat Pendek,Gizi Kurang,N,stunting
+P,31,11.3,83,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+L,30,12,82,Berat Badan Normal,Pendek,Risiko Gizi Lebih,N,stunting
+P,30,10.8,82,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+P,29,10.7,83.8,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,29,11.8,86.2,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,27,11,83.8,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,26,11.8,81,Berat Badan Normal,Normal,Risiko Gizi Lebih,N,stunting
+L,23,9.4,77.8,Kurang,Sangat Pendek,Gizi Baik,N,stunting
+L,23,8.3,76.4,Sangat Kurang,Sangat Pendek,Gizi Kurang,T,tidak stunting
+L,23,12.6,89,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,22,10.4,76,Berat Badan Normal,Sangat Pendek,Gizi Baik,T,tidak stunting
+L,21,9.6,83,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,21,8.8,77.5,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,20,9.4,80,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,19,8.6,74.6,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+L,19,9.9,78.4,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,18,8.1,75.5,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,17,8.1,73,Kurang,Sangat Pendek,Gizi Baik,T,tidak stunting
+P,17,7.9,72.5,Kurang,Pendek,Gizi Baik,T,tidak stunting
+P,17,9.3,78.3,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,17,8,73.3,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+P,13,8.7,74.8,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,13,8.2,74,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,13,9.1,76.9,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,13,8.4,72,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,13,9,72.9,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,12,8.7,70.9,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+P,12,10.9,77.5,Risiko Lebih,Normal,Risiko Gizi Lebih,T,tidak stunting
+L,11,7.7,70,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+P,10,9.4,70.6,Berat Badan Normal,Normal,Risiko Gizi Lebih,T,tidak stunting
+P,10,8.6,69.2,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,9,7.9,69,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,8,7.5,67,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,7,8.1,68.3,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,7,7.5,66.2,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,7,6,64.2,Kurang,Normal,Gizi Baik,N,stunting
+L,4,6.9,63.2,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,2,5.2,57,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,0,3.6,51.5,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,59,15.1,101,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,55,12,96,Kurang,Pendek,Gizi Kurang,T,tidak stunting
+L,55,15.1,102.7,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,51,12.9,96.5,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,50,13,95,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,50,12.7,94.5,Kurang,Pendek,Gizi Baik,N,stunting
+P,49,13.5,97.5,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,46,17.9,99.9,Berat Badan Normal,Normal,Risiko Gizi Lebih,T,tidak stunting
+P,46,13.7,93.5,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,45,13.5,94,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,45,10.4,90.6,Sangat Kurang,Pendek,Gizi Kurang,T,tidak stunting
+L,43,13,90.7,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+P,42,13.4,91,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,38,14.5,99,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,37,14.7,99,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,36,11.2,87.9,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,33,12.5,86,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,29,10,81,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+L,29,13.4,90.5,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,28,11,84.8,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,25,9.7,82.6,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,24,10.5,80.5,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+L,24,9.8,81,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+L,18,9.7,78,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,18,9.8,77.5,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,16,8.2,72.5,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+L,16,7.9,70.6,Kurang,Sangat Pendek,Gizi Baik,N,stunting
+P,16,7.5,73.5,Kurang,Normal,Gizi Baik,T,tidak stunting
+L,12,8.5,71,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+P,11,7,69.7,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,11,8.2,70.6,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,9,9.2,70.6,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,6,6.5,64,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,3,6.2,61.9,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,1,4.6,50.3,Berat Badan Normal,Pendek,Obesitas,N,stunting
+P,1,3.4,53.4,Berat Badan Normal,Normal,Gizi Kurang,N,stunting
+P,0,3,50,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,0,2.8,48,Berat Badan Normal,Normal,Gizi Baik,,tidak stunting
+P,58,12,95.5,Kurang,Pendek,Gizi Baik,N,stunting
+L,58,14.5,100.2,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,58,14.5,99.5,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,58,14.7,99.5,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,58,15.2,101,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,57,13.5,98,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+L,57,15,88.5,Berat Badan Normal,Sangat Pendek,Gizi Lebih,N,stunting
+L,57,15,102,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,57,15,101,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,56,14.5,101,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,56,14,98.3,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,56,18,107,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,56,13.8,97,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+L,56,14,98,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+L,56,13.5,99,Kurang,Normal,Gizi Baik,T,tidak stunting
+L,56,19.7,108,Berat Badan Normal,Normal,Risiko Gizi Lebih,T,tidak stunting
+L,56,14.5,99,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,55,15,103,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,55,13.2,97,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+P,54,14,98.5,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,54,14,102,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,53,13.3,96,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+L,53,14,98,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,53,13.4,96.5,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+L,53,14,97.6,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,53,12,96,Kurang,Pendek,Gizi Kurang,T,tidak stunting
+P,53,14.5,97.3,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,52,13.5,97,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,52,14.5,102,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,52,13.5,95,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+P,52,12.3,97,Kurang,Normal,Gizi Baik,T,tidak stunting
+P,51,13.3,97,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,51,13.3,94,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+P,51,14,99,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,51,14.5,101,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,51,14.5,95,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+L,51,14.3,96.2,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,50,13,95,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+L,50,13.8,96,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,50,11,94,Sangat Kurang,Pendek,Gizi Kurang,N,stunting
+L,50,13.5,97,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,50,13.5,95,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,49,13.5,94,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+P,49,16.3,100.2,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,49,13.7,92.5,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+L,49,11.9,93.5,Kurang,Pendek,Gizi Baik,T,tidak stunting
+P,49,13.5,92.5,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+P,48,13.5,93,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+P,48,13.5,95.5,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,48,18.9,101,Risiko Lebih,Normal,Gizi Lebih,N,stunting
+P,48,12.8,94.5,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,48,13,94.2,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+L,48,13,97.9,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,48,13.2,97.5,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,48,14,95.5,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,47,14,96.5,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,47,13.6,95,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,47,14,95,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,46,13.6,95,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,46,12,91,Kurang,Pendek,Gizi Baik,N,stunting
+L,46,13.5,93,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+L,46,13.6,97,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,46,15.5,100.5,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,46,12,92,Kurang,Pendek,Gizi Baik,T,tidak stunting
+L,46,15,96,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,44,14.5,94,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,44,15.5,95,Berat Badan Normal,Normal,Risiko Gizi Lebih,T,tidak stunting
+P,44,12.7,96,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,43,12.5,91,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+P,43,14,95,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,43,13,93,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,43,13,87.2,Berat Badan Normal,Sangat Pendek,Gizi Baik,T,tidak stunting
+P,43,12,92,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,43,14,92,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+L,43,15,102,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,43,13.3,91,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+P,43,11,88.5,Kurang,Pendek,Gizi Baik,N,stunting
+P,42,11.7,89,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+L,42,12,88,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+L,42,12,87,Berat Badan Normal,Sangat Pendek,Gizi Baik,T,tidak stunting
+L,42,12,87,Berat Badan Normal,Sangat Pendek,Gizi Baik,T,tidak stunting
+P,41,12.2,87,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+L,41,12,86,Berat Badan Normal,Sangat Pendek,Gizi Baik,T,tidak stunting
+L,40,11.5,88,Kurang,Pendek,Gizi Baik,T,tidak stunting
+L,40,13.2,88,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+L,39,11.6,93,Kurang,Normal,Gizi Kurang,T,tidak stunting
+P,39,20,99.5,Risiko Lebih,Normal,Gizi Lebih,T,tidak stunting
+P,39,13.3,89.5,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,39,10.8,85,Kurang,Sangat Pendek,Gizi Baik,N,stunting
+P,39,11.5,85,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+L,39,12,88.2,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+L,38,11,87,Kurang,Pendek,Gizi Baik,T,tidak stunting
+P,38,12,85,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+P,38,12.8,88,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+P,38,11.5,89,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,37,12,87.5,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+P,37,11.8,86.4,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+P,37,11.5,86,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+L,36,11.5,85,Berat Badan Normal,Sangat Pendek,Gizi Baik,T,tidak stunting
+P,36,8.4,80,Sangat Kurang,Sangat Pendek,Gizi Kurang,N,stunting
+P,36,12.5,84,Berat Badan Normal,Pendek,Risiko Gizi Lebih,N,stunting
+P,36,13,87,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+L,36,14,95.2,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,36,11.5,85,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+L,35,11,85,Kurang,Pendek,Gizi Baik,T,tidak stunting
+L,34,12.2,87.5,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+P,34,11.5,85,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+P,34,12,86,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+L,34,10.7,85,Kurang,Pendek,Gizi Baik,N,stunting
+P,34,15.4,87,Risiko Lebih,Normal,Gizi Lebih,T,tidak stunting
+L,34,11.5,85,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+P,34,11.9,92,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,33,11.5,86.5,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,33,10.4,84.9,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+P,32,11,90,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,32,11.2,86,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+L,32,11.5,87,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,32,9,84,Sangat Kurang,Pendek,Gizi Kurang,T,tidak stunting
+L,32,11.5,85,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+P,32,11.5,86,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,31,12.2,85,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,31,10.2,87,Kurang,Normal,Gizi Kurang,N,stunting
+L,31,10,86.3,Kurang,Normal,Gizi Kurang,N,stunting
+P,31,11,86,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,31,10,82,Kurang,Sangat Pendek,Gizi Baik,T,tidak stunting
+P,31,10.6,84,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+L,31,10,86,Kurang,Normal,Gizi Kurang,T,tidak stunting
+P,30,11.1,84.5,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,30,10,83,Kurang,Pendek,Gizi Baik,N,stunting
+P,30,10.5,83.5,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+P,30,10.2,82,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+L,30,11.5,83,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+L,30,11,84,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+P,30,9,80,Kurang,Sangat Pendek,Gizi Baik,T,tidak stunting
+L,30,9.6,84,Kurang,Pendek,Gizi Kurang,N,stunting
+P,30,10.3,80.5,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+P,29,11.5,82,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+L,29,11,84,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+L,29,8.2,69.2,Sangat Kurang,,Gizi Baik,N,stunting
+L,29,9.3,80,Kurang,Sangat Pendek,Gizi Baik,T,tidak stunting
+P,29,9,81,Kurang,Pendek,Gizi Baik,T,tidak stunting
+L,29,10.1,84,Kurang,Pendek,Gizi Baik,N,stunting
+P,29,9.1,80,Kurang,Pendek,Gizi Baik,T,tidak stunting
+L,28,9.6,73.7,Kurang,Sangat Pendek,Gizi Baik,N,stunting
+P,28,12,83.2,Berat Badan Normal,Normal,Risiko Gizi Lebih,T,tidak stunting
+P,28,9,81,Kurang,Pendek,Gizi Baik,T,tidak stunting
+P,27,9.5,81.5,Kurang,Pendek,Gizi Baik,N,stunting
+L,27,9.3,82,Kurang,Pendek,Gizi Kurang,N,stunting
+L,27,9,79,Sangat Kurang,Sangat Pendek,Gizi Baik,T,tidak stunting
+L,27,11.5,87,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,27,10,85,Kurang,Normal,Gizi Baik,T,tidak stunting
+L,27,9,79,Sangat Kurang,Sangat Pendek,Gizi Baik,T,tidak stunting
+L,27,9,81,Kurang,Pendek,Gizi Kurang,T,tidak stunting
+P,26,13.3,86,Berat Badan Normal,Normal,Risiko Gizi Lebih,T,tidak stunting
+L,26,8.5,80,Sangat Kurang,Pendek,Gizi Kurang,N,stunting
+L,25,10,82,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+L,25,9.5,70,Kurang,Sangat Pendek,Risiko Gizi Lebih,T,tidak stunting
+L,25,10,86.5,Berat Badan Normal,Normal,Gizi Kurang,T,tidak stunting
+L,25,11.9,83,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,24,7.9,67.3,Sangat Kurang,,Gizi Baik,T,tidak stunting
+P,24,8.9,82.9,Kurang,Normal,Gizi Kurang,T,tidak stunting
+L,24,9,77.5,Kurang,Sangat Pendek,Gizi Baik,T,tidak stunting
+P,24,10,85,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,23,9,78,Kurang,Sangat Pendek,Gizi Baik,T,tidak stunting
+L,23,9.5,78,Kurang,Sangat Pendek,Gizi Baik,T,tidak stunting
+L,23,10,81,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,23,11,77.2,Berat Badan Normal,Sangat Pendek,Risiko Gizi Lebih,T,tidak stunting
+P,23,9,76.8,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+L,22,9.1,78.2,Kurang,Pendek,Gizi Baik,T,tidak stunting
+L,22,9.4,78,Kurang,Pendek,Gizi Baik,N,stunting
+P,22,10,80,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,22,9.3,82,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,22,9,78,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+P,22,9.8,86,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,22,8.9,81.4,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,20,9.5,85,Berat Badan Normal,Normal,Gizi Kurang,T,tidak stunting
+P,20,9.7,80,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,20,8.7,78.3,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,20,8.9,74,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+P,20,8.3,74,Kurang,Pendek,Gizi Baik,N,stunting
+L,19,9,74,Berat Badan Normal,Sangat Pendek,Gizi Baik,T,tidak stunting
+P,18,7.1,69.5,Sangat Kurang,Sangat Pendek,Gizi Baik,T,tidak stunting
+P,18,9,72,Berat Badan Normal,Sangat Pendek,Gizi Baik,N,stunting
+L,18,9,72,Berat Badan Normal,Sangat Pendek,Gizi Baik,T,tidak stunting
+L,18,9.5,73,Berat Badan Normal,Sangat Pendek,Gizi Baik,T,tidak stunting
+L,18,10,77,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,18,9.5,75.3,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,17,8.5,72,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+L,17,8.8,71,Berat Badan Normal,Sangat Pendek,Gizi Baik,T,tidak stunting
+L,17,10,77,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,17,8.6,73.5,Kurang,Sangat Pendek,Gizi Baik,N,stunting
+P,17,7.3,71,Kurang,Sangat Pendek,Gizi Baik,N,stunting
+P,17,8,74,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+P,17,8.5,74,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+P,17,9.1,76,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,16,9.2,76,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,16,8.1,70.5,Kurang,Sangat Pendek,Gizi Baik,N,stunting
+L,16,8.5,75,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+L,16,9.6,75,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+P,15,10,71.9,Berat Badan Normal,Pendek,Risiko Gizi Lebih,T,tidak stunting
+P,15,7.5,76,Kurang,Normal,Gizi Kurang,T,tidak stunting
+L,15,7.9,70.6,Kurang,Sangat Pendek,Gizi Baik,T,tidak stunting
+L,15,9.1,75,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,15,8.5,72.3,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+P,15,7.8,72,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,15,8.3,71,Berat Badan Normal,Sangat Pendek,Gizi Baik,N,stunting
+L,15,6.8,70,Sangat Kurang,Sangat Pendek,Gizi Kurang,T,tidak stunting
+L,14,8.3,76,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,14,8,69,Kurang,Sangat Pendek,Gizi Baik,N,stunting
+L,14,9.5,78,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,14,8.6,72,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+L,14,9.3,70.5,Berat Badan Normal,Sangat Pendek,Risiko Gizi Lebih,T,tidak stunting
+P,14,9.7,73.2,Berat Badan Normal,Normal,Risiko Gizi Lebih,T,tidak stunting
+L,14,7.5,71,Kurang,Sangat Pendek,Gizi Baik,T,tidak stunting
+P,14,8.8,75,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,14,8,75,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,14,7.6,75,Kurang,Normal,Gizi Kurang,T,tidak stunting
+L,14,8.1,69,Kurang,Sangat Pendek,Gizi Baik,T,tidak stunting
+L,13,9.1,72.1,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+L,13,8.5,71,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+L,13,8,71,Berat Badan Normal,Pendek,Gizi Baik,N,stunting
+L,13,8,74,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,13,8.4,72,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,12,7.7,75,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,12,9.4,73.5,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,12,8,70,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,12,7.3,71,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,11,8,77,Berat Badan Normal,Normal,Gizi Kurang,T,tidak stunting
+P,11,7.3,67.5,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+P,11,8.7,70.3,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,10,6.7,69,Kurang,Normal,Gizi Baik,T,tidak stunting
+L,10,8,68,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+L,10,7.8,65,Berat Badan Normal,Sangat Pendek,Gizi Baik,T,tidak stunting
+L,10,7.9,73,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,9,9.6,73,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,9,7.1,68,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,9,8.3,70.5,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,9,6.5,61,Berat Badan Normal,Sangat Pendek,Gizi Baik,N,stunting
+P,9,6.5,65.3,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,8,7,66.5,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,8,8.9,69.5,Berat Badan Normal,Normal,Risiko Gizi Lebih,N,stunting
+P,7,7.1,66,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,7,7.8,77,Berat Badan Normal,Tinggi,Gizi Kurang,T,tidak stunting
+P,7,8.2,69.8,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,7,7.7,66,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,6,7.4,66,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,6,7.8,68,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,6,6.1,63,Kurang,Pendek,Gizi Baik,N,stunting
+P,6,6.5,64,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,5,6.9,62,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,5,6.5,63.5,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,5,6.3,64.5,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,5,7,68,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,5,7.3,65,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,4,8.5,69,Risiko Lebih,Normal,Gizi Baik,T,tidak stunting
+L,4,7.4,66.2,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,4,7.6,68,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+L,4,7.4,67,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,4,6.5,63,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,4,6,60.4,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,4,7.6,65,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,3,6.8,64,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,2,6.3,56,Berat Badan Normal,Pendek,Gizi Lebih,T,tidak stunting
+L,2,5.5,62,Berat Badan Normal,Normal,Gizi Kurang,T,tidak stunting
+P,2,4.1,53,Berat Badan Normal,Pendek,Gizi Baik,T,tidak stunting
+L,2,4.8,56,Berat Badan Normal,Normal,Gizi Baik,N,stunting
+P,2,5,58,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,1,3.9,54,Kurang,Pendek,Gizi Baik,T,tidak stunting
+P,1,5.1,54.4,Berat Badan Normal,Normal,Risiko Gizi Lebih,N,stunting
+L,1,6,56,Berat Badan Normal,Normal,Gizi Lebih,T,tidak stunting
+L,1,5.2,59,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,1,4.3,54,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,6,8,61.2,Risiko Lebih,Tinggi,Obesitas,T,tidak stunting
+L,1,4,52,Berat Badan Normal,Normal,Gizi Baik,O,tidak stunting
+P,0,2.9,49,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,0,3.8,50,Risiko Lebih,Normal,Obesitas,T,tidak stunting
+P,58,15.2,99.2,Berat Badan Normal,Normal,Gizi Baik,O,tidak stunting
+L,51,13.7,97.6,Berat Badan Normal,Normal,Gizi Baik,O,tidak stunting
+L,52,13.8,97.3,Berat Badan Normal,Normal,Gizi Baik,O,tidak stunting
+L,59,13.5,100.8,Kurang,Normal,Gizi Baik,O,tidak stunting
+L,49,14.6,97,Berat Badan Normal,Normal,Gizi Baik,O,tidak stunting
+L,51,12.7,96.5,Kurang,Normal,Gizi Baik,O,tidak stunting
+P,46,12.5,94,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,46,12.3,93.5,Berat Badan Normal,Pendek,Gizi Kurang,T,tidak stunting
+L,46,14.2,94.3,Berat Badan Normal,Normal,Gizi Baik,O,tidak stunting
+L,46,14.6,94.5,Berat Badan Normal,Normal,Gizi Baik,O,tidak stunting
+P,44,13,95.3,Berat Badan Normal,Normal,Gizi Baik,O,tidak stunting
+P,39,11.7,89.2,Berat Badan Normal,Pendek,Gizi Kurang,O,tidak stunting
+L,40,11.5,90.9,Berat Badan Normal,Normal,Gizi Baik,O,tidak stunting
+L,37,11.6,89.6,Berat Badan Normal,Normal,Gizi Baik,O,tidak stunting
+P,40,10.6,89.7,Kurang,Pendek,Gizi Kurang,O,tidak stunting
+L,36,11.2,89.5,Kurang,Normal,Gizi Baik,O,tidak stunting
+P,37,11,88.6,Berat Badan Normal,Pendek,Gizi Kurang,O,tidak stunting
+L,33,10.9,88,Berat Badan Normal,Normal,Gizi Baik,O,tidak stunting
+P,32,11,84.9,Berat Badan Normal,Pendek,Gizi Kurang,T,tidak stunting
+P,32,9.3,85,Sangat Kurang,Pendek,Gizi Kurang,T,tidak stunting
+P,30,11.8,92.4,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,29,,85.6,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+p,53,14,100,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+p,24,9.7,84,Berat Badan Normal,Normal,Gizi Baik,O,tidak stunting
+p,24,10.1,81,Berat Badan Normal,Normal,Gizi Baik,O,tidak stunting
+L,24,10.3,82,Berat Badan Normal,Normal,Gizi Baik,O,tidak stunting
+L,24,10.2,81.6,Berat Badan Normal,Normal,Gizi Baik,O,tidak stunting
+P,22,8.6,78.5,Berat Badan Normal,Tinggi,Gizi Baik,O,tidak stunting
+L,20,8,78.5,Berat Badan Normal,Tinggi,Gizi Baik,O,tidak stunting
+L,21,8.5,80.3,Berat Badan Normal,Tinggi,Gizi Baik,O,tidak stunting
+L,18,8.7,77,Berat Badan Normal,Tinggi,Gizi Baik,O,tidak stunting
+L,16,8.6,75,Berat Badan Normal,Tinggi,Gizi Baik,O,tidak stunting
+P,16,9.3,75.4,Berat Badan Normal,Tinggi,Gizi Baik,O,tidak stunting
+L,11,7.8,76,Berat Badan Normal,Tinggi,Gizi Baik,O,tidak stunting
+L,9,7.5,67.5,Berat Badan Normal,Normal,Gizi Baik,O,tidak stunting
+P,7,7,62.8,Berat Badan Normal,Normal,Gizi Baik,O,tidak stunting
+P,6,7.3,63,Berat Badan Normal,Normal,Gizi Baik,O,tidak stunting
+P,3,5.1,57,Berat Badan Normal,Normal,Gizi Baik,O,tidak stunting
+L,4,7.1,61,Berat Badan Normal,Normal,Gizi Baik,O,tidak stunting
+P,6,7,61.9,Berat Badan Normal,Normal,Gizi Baik,O,tidak stunting
+P,4,6.5,59.6,Berat Badan Normal,Normal,Gizi Baik,O,tidak stunting
+L,3,6.2,58.6,Berat Badan Normal,Tinggi,Gizi Baik,T,tidak stunting
+P,60,16,101,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,51,14.5,104,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,49,11.3,95,Kurang,Pendek,Gizi Kurang,T,tidak stunting
+P,52,15.3,102.4,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,44,14.1,96.8,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+L,45,12.8,95,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,38,10.4,89,Berat Badan Normal,Normal,Gizi Baik,T,tidak stunting
+P,40,13.6,93.2,Berat Badan Normal,Normal,Gizi Baik,O,tidak stunting
+P,39,10.3,89.4,Kurang,Pendek,Gizi Kurang,O,tidak stunting
+L,36,12,90.3,Berat Badan Normal,Normal,Gizi Baik,O,tidak stunting
+L,34,10,88.3,Kurang,Normal,Gizi Baik,O,tidak stunting
+L,34,11,88.5,Kurang,Normal,Gizi Baik,O,tidak stunting
+L,31,10,86.7,Kurang,Normal,Gizi Baik,O,tidak stunting
+P,31,9,86.3,Kurang,Normal,Gizi Baik,O,tidak stunting
+P,36,10.3,87.9,Kurang,Pendek,Gizi Kurang,O,tidak stunting
+L,32,10.2,86.3,Kurang,Normal,Gizi Baik,O,tidak stunting
+P,26,10,83,Berat Badan Normal,Normal,Gizi Baik,O,tidak stunting
+L,30,10.7,85.4,Berat Badan Normal,Normal,Gizi Baik,O,tidak stunting
+L,25,10.2,82.6,Berat Badan Normal,Normal,Gizi Baik,O,tidak stunting
+P,25,9.8,82,Kurang,Normal,Gizi Baik,O,tidak stunting
+L,20,8.6,78.8,Kurang,Tinggi,Obesitas,O,tidak stunting
+L,19,10,79.2,Berat Badan Normal,Tinggi,Gizi Baik,T,tidak stunting
+P,19,8.3,81.3,Berat Badan Normal,Tinggi,Gizi Baik,O,tidak stunting
+L,33,10.5,85.7,Berat Badan Normal,Pendek,Gizi Kurang,T,tidak stunting
+P,33,9.3,86,Kurang,Normal,Gizi Baik,T,tidak stunting
+L,16,8.2,73.4,Berat Badan Normal,Tinggi,Obesitas,O,tidak stunting
+L,11,8.3,70,Berat Badan Normal,Normal,Gizi Baik,O,tidak stunting
+L,10,8,69,Berat Badan Normal,Tinggi,Gizi Baik,O,tidak stunting
+P,10,7.8,68.2,Berat Badan Normal,Normal,Gizi Baik,O,tidak stunting
+L,9,8.5,69,Berat Badan Normal,Normal,Gizi Baik,O,tidak stunting
+L,9,8.2,68,Berat Badan Normal,Normal,Gizi Baik,O,tidak stunting
+P,6,6.2,66,Berat Badan Normal,Normal,Gizi Baik,O,tidak stunting
