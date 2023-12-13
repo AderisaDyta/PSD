@@ -251,6 +251,10 @@ with tab7:
         st.write("\n**Accuracy - SVM (Grid Search):**")
         st.table({"SVM": "{:.2f}%".format(accuracy_svm)})
 
+        # Menampilkan nilai gamma terbaik dan C terbaik
+        st.write("\n**Best Parameters - SVM (Grid Search):**")
+        st.table({"C": best_params['C'], "Gamma": best_params['gamma']})
+
         # Menghitung waktu pelatihan SVM
         end_time_svm = time.time()
         training_time_svm = end_time_svm - start_time_svm
@@ -262,6 +266,7 @@ with tab7:
         st.write("\n**Classification Report - SVM (Grid Search):**")
         df_svm_evaluation = pd.DataFrame(svm_evaluation).transpose()
         st.table(df_svm_evaluation)
+
 
         #KNN
         # K-Nearest Neighbors (KNN)
