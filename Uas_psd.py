@@ -24,7 +24,7 @@ from sklearn.metrics import confusion_matrix, accuracy_score, classification_rep
 import time #mengukur waktu ekssekusi
 
 # modul untuk menyimpan model
-import pickle
+import joblib
 
 
 
@@ -338,7 +338,7 @@ with tab8:
 
                 # Membaca model yang sudah dilatih
         filename = 'KNN_model.sav'
-        loaded_model = pickle.load(open(filename, 'rb'))
+        loaded_model = joblib.load(filename)
 
         # Menampilkan formulir input di Streamlit
         st.title("Prediksi Kualitas Garam")
