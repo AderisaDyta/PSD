@@ -30,9 +30,9 @@ import logging
 logging.basicConfig(level=logging.DEBUG)
 
 
-st.markdown("<h2 style='text-align: center;'>PTA Universitas Trunojoyo Madura</h2>", unsafe_allow_html=True)
+st.markdown("<h2 style='text-align: center;'>UNIVERSITAS TRUNOJOYO MADURA</h2>", unsafe_allow_html=True)
 st.markdown("<h4 style='text-align: center;'>200411100013_Aderisa Dyta Okvianti</h4>", unsafe_allow_html=True)
-st.markdown("<h6 style='text-align: center;'>UAS / Proyek Sains Data</h6>", unsafe_allow_html=True)
+st.markdown("<h6 style='text-align: center;'>UAS / Proyek Sains Data E</h6>", unsafe_allow_html=True)
 tab1, tab2, tab3, tab4, tab5, tab6, tab7, tab8= st.tabs(["Data Garam", "Data Preprocessing","Label Encoding",'Normalisasi', "Korelasi" ,"Splitting & Balancing data", "Pemodelan", "Implementasi"])
 
 with tab1:
@@ -310,11 +310,16 @@ with tab7:
         st.write("\n**Accuracy - K-Nearest Neighbors (KNN):**")
         st.table({"KNN": "{:.2f}%".format(accuracy_knn)})
 
+        # Menampilkan nilai k terbaik
+        st.write("\n**Best Value of k - K-Nearest Neighbors (KNN):**")
+        st.table({"K": best_k_knn})
+
         # Menghitung waktu training KNN
         end_time_knn = time.time()
         training_time_knn = end_time_knn - start_time_knn
         st.write("\n**Waktu Pelatihan - K-Nearest Neighbors (KNN):**")
         st.table({"KNN": "{:.4f} detik".format(training_time_knn)})
+
 
         # Menampilkan laporan evaluasi KNN
         knn_evaluation = classification_report(y_test, knn_predict, output_dict=True)
