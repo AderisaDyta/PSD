@@ -165,7 +165,6 @@ with tab6:
     st.table(df_after_smote_info)
 
 with tab7:
-
 # Membuat dan melatih model Naive Bayes
         start_time = time.time()
         nb = GaussianNB()
@@ -202,6 +201,17 @@ with tab7:
 
 
         #svm
+        # Memisahkan data menjadi fitur (X) dan target (y)
+        x = df.drop(columns=['Grade'])  # semua fitur selain target
+        y = df['Grade']  # target
+
+        # Memisahkan data menjadi training dan testing
+        x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2, random_state=0)
+
+        # menyeimbangkan kelas minoritas dalam data training
+        smote = SMOTE(sampling_strategy='minority')  # menjadikan setara
+        x_train_balanced, y_train_balanced = smote.fit_resample(x_train, y_train)
+
         # Membuat model SVM
         start_time_svm = time.time()
         
