@@ -197,6 +197,7 @@ with tab7:
         # Menampilkan laporan evaluasi
         nb_evaluation = classification_report(y_test, nb_predict, output_dict=True)
         st.write("\n**Classification Report - Naive Bayes:**")
+        #tampilan tabel
         df_classification_report = pd.DataFrame(nb_evaluation).transpose()
         st.table(df_classification_report)
 
@@ -238,8 +239,14 @@ with tab7:
 
         # Mengukur dan menampilkan akurasi SVM dengan data uji
         accuracy_svm = accuracy_score(y_test, svm_predict) * 100
-        st.write("\n**Accuracy - SVM (Grid Search):**")
-        st.table({"SVM": "{:.2f}%".format(accuracy_svm)})
+        # Menampilkan akurasi
+        st.subheader("Akurasi:")
+        st.write("SVM (Grid Search): {:.2f}%".format(accuracy_svm))
+
+        # Menampilkan parameter terbaik
+        st.subheader("Parameter Terbaik:")
+        st.write("C:", best_params['C'])
+        st.write("Gamma:", best_params['gamma'])
 
         # Menghitung waktu pelatihan SVM
         end_time_svm = time.time()
@@ -304,14 +311,16 @@ with tab7:
         # Menampilkan laporan evaluasi KNN
         knn_evaluation = classification_report(y_test, knn_predict)
         st.write("\n**Classification Report - K-Nearest Neighbors (KNN):**")
-        st.write(knn_evaluation)
+        df_knn_evaluation = pd.DataFrame(knn_evaluation).transpose()
+        st.table(df_knn_evaluation)
+
 
 
         st.write("Visualisasi:")
 
         # Data perbandingan metode
         metode = ['SVM', 'Naive Bayes', 'KNN']
-        akurasi = [71.00, 80.00, 97.14]  # Menggunakan nilai numerik tanpa tanda persen
+        akurasi = [71.43, 80.00, 92.86]  # Menggunakan nilai numerik tanpa tanda persen
 
         # Membuat diagram batang
         fig, ax = plt.subplots()
