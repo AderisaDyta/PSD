@@ -304,7 +304,8 @@ with tab7:
         # Menampilkan laporan evaluasi KNN
         knn_evaluation = classification_report(y_test, knn_predict)
         st.write("\n**Classification Report - K-Nearest Neighbors (KNN):**")
-        st.write(knn_evaluation)
+        df_knn_evaluation = pd.DataFrame(knn_evaluation).transpose()
+        st.table(df_knn_evaluation)
 
 
         st.write("Visualisasi:")
