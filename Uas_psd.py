@@ -302,9 +302,9 @@ with tab7:
         st.table({"KNN": "{:.4f} detik".format(training_time_knn)})
 
         # Menampilkan laporan evaluasi KNN
-        knn_evaluation = classification_report(y_test, knn_predict)
+        knn_evaluation = classification_report(y_test, knn_predict, output_dict=True)
         st.write("\n**Classification Report - K-Nearest Neighbors (KNN):**")
-        df_knn_evaluation = pd.DataFrame(knn_evaluation, index=[0])
+        df_knn_evaluation = pd.DataFrame(knn_evaluation). transpose()
         st.table(df_knn_evaluation)
 
 
