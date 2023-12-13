@@ -332,7 +332,7 @@ with tab8:
         def get_user_input():
                 features = []
                 for i in range(6):
-                        feature_value = st.number_input(f"Masukkan nilai fitur {i+1}")
+                        feature_value = st.number_input(f"Masukkan nilai fitur {i+1}",value=None, placeholder="Type a number...")
                         features.append(feature_value)
                 return np.array(features).reshape(1, -1)
 
