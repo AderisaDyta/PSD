@@ -25,8 +25,9 @@ import time #mengukur waktu ekssekusi
 
 # modul untuk menyimpan model
 import joblib
+import logging
 
-
+logging.basicConfig(level=logging.DEBUG)
 
 
 st.markdown("<h2 style='text-align: center;'>PTA Universitas Trunojoyo Madura</h2>", unsafe_allow_html=True)
@@ -349,6 +350,7 @@ with tab8:
                 # Membuat prediksi menggunakan model
         new_data_prediction = loaded_model.predict(new_data)
 
+        logging.debug(f'predict >>> : {new_data_prediction}')
                 # Menampilkan hasil prediksi
         st.subheader("Hasil Prediksi:")
         if new_data_prediction == 0:
