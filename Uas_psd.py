@@ -352,11 +352,11 @@ with tab8:
 
         logging.debug(f'predict >>> : {new_data_prediction}')
                 # Menampilkan hasil prediksi
-        st.subheader("Hasil Prediksi:")
-        if new_data_prediction == 0:
-                st.write('Garam Bagus')
-        else:
-                st.write('Garam kurang bagus')
+        if st.button('Lakukan prediksi'):
+                if new_data_prediction == 0:
+                        st.write('Garam Bagus')
+                else:
+                        st.write('Garam kurang bagus')
 
 
 
